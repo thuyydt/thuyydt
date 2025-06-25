@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Thuyy D.T 👋
 
-<!--
-**thuydtshop/thuydtshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I'm a software developer with a passion for creating dynamic and responsive web applications. I specialize in Laravel, Flutter, Vue.js, WordPress, PrestaShop, OpenCart, Shopify, and more.
+I love exploring new technologies and continuously improving my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages:** PHP, JavaScript, Dart
+- **Frameworks:** Laravel, Flutter, Vue.js
+- **CMS:** WordPress, PrestaShop, OpenCart, Shopify
+- **Tools:** Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+I'm currently exploring cloud technologies and DevOps practices to enhance my skill set and deliver better solutions.
